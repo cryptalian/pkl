@@ -3,7 +3,7 @@
 #
 
 # ROBLOX
-roblox.com
-roblox.co
-rbxcdn.com
-rbxcdn.com.edgesuite.net
+(^|\.)roblox\.com$
+(^|\.)roblox\.co$
+(^|\.)rbxcdn\.com$
+(^|\.)rbxcdn\.com\.edgesuite\.net$
