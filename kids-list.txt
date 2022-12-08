@@ -1,0 +1,9 @@
+# kids-list
+# Variant: kids-list services
+#
+
+# ROBLOX
+0.0.0.0 roblox.com
+0.0.0.0 roblox.co
+0.0.0.0 rbxcdn.com
+0.0.0.0 rbxcdn.com.edgesuite.net
